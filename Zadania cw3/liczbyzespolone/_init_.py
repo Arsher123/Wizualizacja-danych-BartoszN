@@ -1,0 +1,1 @@
+all = ["modul11dod","modul11zwroc"]
