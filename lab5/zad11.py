@@ -6,4 +6,4 @@ def fibb(n):
         b = a + b
         yield a
 x=fibb(10)
-print(x)
+print(list(x))
